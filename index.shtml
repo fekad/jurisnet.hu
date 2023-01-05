@@ -1,0 +1,25 @@
+﻿<!--#include virtual="head.inc" -->
+<body>
+<div id="wrap">
+  <!--#include virtual="hu/header.inc" -->
+  
+  
+  <div id="tab1" style="display:block">
+  	<!--#include virtual="hu/introduction.inc" -->
+  </div>
+  <div id="tab2" style="display:none">
+  	<!--#include virtual="hu/specialties.inc" -->
+  </div>
+  <div id="tab3" style="display:none">
+  	<!--#include virtual="hu/rates.inc" -->
+  </div>
+  <div id="tab4" style="display:none;">
+  	<!--#include virtual="hu/contact.inc" -->
+  </div>
+  
+  <!--#include virtual="hu/footer.inc" -->
+</div>
+<!--wrap-->
+
+</body>
+</html>

@@ -1,0 +1,26 @@
+﻿<!--#include virtual="head_it.inc" -->
+<body>
+<div id="wrap">
+  <!--#include virtual="it/header.inc" -->
+  
+  
+  <div id="tab1" style="display:block">
+  	<!--#include virtual="it/introduction.inc" -->
+  </div>
+  <div id="tab2" style="display:none">
+  	<!--#include virtual="it/specialties.inc" -->
+  </div>
+  <div id="tab3" style="display:none">
+  	<!--#include virtual="it/rates.inc" -->
+  </div>
+  <div id="tab4" style="display:none;">
+  	<!--#include virtual="it/contact.inc" -->
+  </div>
+  
+  <!--#include virtual="it/footer.inc" -->
+</div>
+<!--wrap-->
+<!--#include virtual="google_analytics.inc" -->
+
+</body>
+</html>
